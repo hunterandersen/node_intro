@@ -1,0 +1,19 @@
+{
+  "name": "node_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunterandersen/node_intro.git"
+  },
+  "author": "Hunter Andersen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hunterandersen/node_intro/issues"
+  },
+  "homepage": "https://github.com/hunterandersen/node_intro#readme"
+}
